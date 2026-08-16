@@ -47,12 +47,12 @@ an Arduino Uno, for airsoft milsim games.
   English and Russian both sound right.
 </p>
 
-<sub>Abby and Max were drawn for <a href="https://github.com/TraxData313/claude-voice">claude-voice</a>;
-the full-size originals live <a href="https://github.com/TraxData313/claude-voice/tree/main/docs/original_Abby_and_Max_generated_pics">in the repo</a>.
-The look owes a debt to Genndy Tartakovsky's <em>Samurai Jack</em>.</sub>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/Abby-Full-Size.png" title="claude-voice — Claude Code, out loud. Locally.">
     <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/Abby-Full-Size.png" width="100%" alt="Abby">
   </a>
 </p>
+<sub>Abby and Max were drawn for <a href="https://github.com/TraxData313/claude-voice">claude-voice</a>;
+the full-size originals live <a href="https://github.com/TraxData313/claude-voice/tree/main/docs/original_Abby_and_Max_generated_pics">in the repo</a>.
+The look owes a debt to Genndy Tartakovsky's <em>Samurai Jack</em>.</sub>
