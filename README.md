@@ -1,4 +1,4 @@
-**Bible related**
+### Bible related
 
 ✝️ **[The Ghospel of Jesus Christ](https://github.com/TraxData313/The_Ghospel_of_Jesus_Christ)** ·
 **[Благовестието на Исус Христос](https://github.com/TraxData313/Blagovestieto_na_Isus_Hristos)**
@@ -17,7 +17,7 @@ the Bulgarian translations of the Bible, in formats an e-reader will take.
 should the gnostic texts found near Nag Hammadi be part of the Bible? An old question, put to
 modern NLP.
 
-**Also building**
+### Also building
 
 🏰 **[ImmersiveAI](https://github.com/TraxData313/ImmersiveAI)** — an immersive AI-NPC mod for
 Mount & Blade II: Bannerlord. NPCs converse via LLMs with persistent, layered memory, distinct
