@@ -31,7 +31,7 @@ an Arduino Uno, for airsoft milsim games.
 
 ---
 
-### Latest work — Abby, as claude-voice
+### Latest work — Abby, as [claude-voice](https://github.com/TraxData313/claude-voice)
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/Abby-Full-Size.png" title="claude-voice — Claude Code, out loud. Locally.">
