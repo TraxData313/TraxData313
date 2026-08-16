@@ -34,8 +34,8 @@ an Arduino Uno, for airsoft milsim games.
 ### Latest work — Abby, as claude-voice
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.jpg" title="claude-voice — Claude Code, out loud. Locally.">
-    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.jpg" width="620" alt="Abby">
+  <a href="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.png" title="claude-voice — Claude Code, out loud. Locally.">
+    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.png" width="620" alt="Abby">
   </a>
 </p>
 
