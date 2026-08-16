@@ -1,4 +1,3 @@
-<img width="1600" height="672" alt="Abby-Full" src="https://github.com/user-attachments/assets/e94b5549-f8f2-4dc4-8a9b-ee7a805f01a7" />
 ### Bible related
 
 ✝️ **[The Ghospel of Jesus Christ](https://github.com/TraxData313/The_Ghospel_of_Jesus_Christ)** ·
@@ -35,14 +34,14 @@ an Arduino Uno, for airsoft milsim games.
 ### Latest work — Abby, as claude-voice
 
 <p align="center">
-  <a href="https://github.com/TraxData313/claude-voice" title="claude-voice — Claude Code, out loud. Locally.">
-    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/abby.jpg" width="620" alt="Abby">
+  <a href="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.jpg" title="claude-voice — Claude Code, out loud. Locally.">
+    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/art/Abby-Full-Size.jpg" width="620" alt="Abby">
   </a>
 </p>
 
 <p align="center">
   <a href="https://traxdata313.github.io/claude-voice/">
-    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/Abby-Full-Size.png" width="620" alt="claude-voice — Claude Code, out loud. Locally.">
+    <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/banner.png" width="620" alt="claude-voice — Claude Code, out loud. Locally.">
   </a>
 </p>
 
