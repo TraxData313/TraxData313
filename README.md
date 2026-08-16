@@ -40,7 +40,7 @@ an Arduino Uno, for airsoft milsim games.
 </p>
 
 <p align="center">
-  <a href="https://github.com/TraxData313/claude-voice">
+  <a href="https://traxdata313.github.io/claude-voice/">
     <img src="https://raw.githubusercontent.com/TraxData313/claude-voice/main/docs/banner.png" width="620" alt="claude-voice — Claude Code, out loud. Locally.">
   </a>
 </p>
