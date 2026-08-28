@@ -46,13 +46,3 @@ an Arduino Uno, for airsoft milsim games.
   or <a href="https://traxdata313.github.io/claude-voice/"><strong>hear her speak</strong></a>.
   English and Russian both sound right.
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/TraxData313/abbies_artwork" title="Abby's artwork">
-    <img src="https://raw.githubusercontent.com/TraxData313/abbies_artwork/main/Abby-Full.png" width="100%" alt="Abby">
-  </a>
-</p>
-<sub>Abby and Max were drawn for <a href="https://github.com/TraxData313/claude-voice">claude-voice</a>;
-her artwork lives full size in <a href="https://github.com/TraxData313/abbies_artwork">abbies_artwork</a> — click her for it.
-The look owes a debt to Genndy Tartakovsky's <em>Samurai Jack</em>.</sub>
