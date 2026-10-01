@@ -17,7 +17,7 @@ the Bulgarian translations of the Bible, in formats an e-reader will take.
 should the gnostic texts found near Nag Hammadi be part of the Bible? An old question, put to
 modern NLP.
 
-### Also building
+### Bannerlord mods
 
 🏰 **[ImmersiveAI](https://github.com/TraxData313/ImmersiveAI)** — an immersive AI-NPC mod for
 Mount & Blade II: Bannerlord. NPCs converse via LLMs with persistent, layered memory, distinct
@@ -25,6 +25,12 @@ voices, and the ability to act on what is said.
 
 ⚔️ **[TrainingBattlesMod](https://github.com/TraxData313/TrainingBattlesMod)** — drill your army
 in training battles; choose your battlefield and scout it first.
+
+🎯 **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** —
+with Throwing Weapons ticked on a formation, real javelin skirmishers go there, not Legionaries with
+a pilum or two. Also on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811452468).
+
+### Also building
 
 💣 **[AirsoftBomb](https://github.com/TraxData313/AirsoftBomb)** — a bomb replica (toy) built on
 an Arduino Uno, for airsoft milsim games.
