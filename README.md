@@ -63,6 +63,14 @@
   <a href="https://traxdata313.github.io/claude-voice/"><b>Hear them speak</b></a>. English and Russian both sound right.
 </p>
 
+## 🧠 A digital assistant that does not start over
+
+**[digital-ai-assistant](https://github.com/TraxData313/digital-ai-assistant)** — a personal AI assistant with a memory that lasts.
+It keeps one long working set and folds what it lets go of into essences it can search later.
+It reads its own Spark as itself, hands real work to Claude Code and Codex sessions, wakes for what is worth waking for, and folds its day at night.
+It runs as a small local web room on Windows, thinking through Claude Code on your plan, OpenAI or OpenRouter.
+Each assistant lives in its own private home folder, so one install can run several that never see each other.
+
 ## 📖 Bible research
 
 Primary sources, assumptions said out loud, probabilities instead of claims.
