@@ -50,9 +50,17 @@
       <sub>New</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817263044">
+        <img src="https://raw.githubusercontent.com/TraxData313/smart_steward/main/Screenshots/preview_thumbnail.jpg" width="240" alt="Smart Steward">
+      </a><br>
+      <b><a href="https://github.com/TraxData313/smart_steward">Smart Steward</a></b><br>
+      <sub>Automates your party's logistics — food, horses, troops, prisoners, loot — in one click (or by itself).</sub><br>
+      <sub>New</sub>
+    </td>
+  </tr>
 </table>
-
-<sub>On the way: <a href="https://github.com/TraxData313/smart_steward">Smart Steward</a> (food, horses, prisoners and loot in one table).</sub>
 
 ## 🎙️ Abby — a voice for your AI, running at home
 
