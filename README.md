@@ -39,7 +39,6 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/better-skirmisher-separation">Better Skirmisher Separation</a></b><br>
       <sub>Tick Throwing Weapons and get real javelin skirmishers — not Legionaries with a pilum or two.</sub><br>
-      <sub>New</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817259431">
@@ -47,7 +46,6 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/trax_combat_enhancements">Trax Combat Enhancements</a></b><br>
       <sub>Slower, tactical battles where heroes matter: a stamina bar for every fighter, and your orders decide who fights and who saves his strength. Not an overhaul.</sub><br>
-      <sub>New</sub>
     </td>
   </tr>
   <tr>
@@ -57,7 +55,6 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/smart_steward">Smart Steward</a></b><br>
       <sub>Automates your party's logistics — food, horses, troops, prisoners, loot — in one click (or by itself).</sub><br>
-      <sub>New</sub>
     </td>
   </tr>
 </table>
