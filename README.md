@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3764210301">
         <img src="https://raw.githubusercontent.com/TraxData313/ImmersiveAI/master/Screenshots/preview_thumbnail.jpg" width="240" alt="ImmersiveAI">
       </a><br>
@@ -23,7 +23,7 @@
       <sub>Every NPC in Calradia gets a mind: conversation, memory, moods, voices, letters — and they act on what is said.</sub><br>
       <sub>2.4k+ subscribers on Steam</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3770681619">
         <img src="https://raw.githubusercontent.com/TraxData313/TrainingBattlesMod/main/Screenshots/preview_thumbnail.jpg" width="240" alt="Training Battles">
       </a><br>
@@ -31,7 +31,9 @@
       <sub>Split your army in two and drill — on land, at sea or at the walls. Scout the ground, pick the hour.</sub><br>
       <sub>850+ subscribers on Steam</sub>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3811452468">
         <img src="https://raw.githubusercontent.com/TraxData313/better-skirmisher-separation/main/docs/thumbnail_v3.jpg" width="240" alt="Better Skirmisher Separation">
       </a><br>
@@ -39,10 +41,18 @@
       <sub>Tick Throwing Weapons and get real javelin skirmishers — not Legionaries with a pilum or two.</sub><br>
       <sub>New</sub>
     </td>
+    <td align="center" width="50%">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817259431">
+        <img src="https://raw.githubusercontent.com/TraxData313/trax_combat_enhancements/main/tools/preview_thumbnail.jpg" width="240" alt="Trax Combat Enhancements">
+      </a><br>
+      <b><a href="https://github.com/TraxData313/trax_combat_enhancements">Trax Combat Enhancements</a></b><br>
+      <sub>Slower, tactical battles where heroes matter: a stamina bar for every fighter, and your orders decide who fights and who saves his strength. Not an overhaul.</sub><br>
+      <sub>New</sub>
+    </td>
   </tr>
 </table>
 
-<sub>On the way: <a href="https://github.com/TraxData313/smart_steward">Smart Steward</a> (food, horses, prisoners and loot in one table) and <a href="https://github.com/TraxData313/trax_combat_enhancements">Combat Enhancements</a>.</sub>
+<sub>On the way: <a href="https://github.com/TraxData313/smart_steward">Smart Steward</a> (food, horses, prisoners and loot in one table).</sub>
 
 ## 🎙️ Abby — a voice for your AI, running at home
 
