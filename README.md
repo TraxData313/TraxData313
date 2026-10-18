@@ -50,8 +50,6 @@
   </tr>
 </table>
 
-**Smaller ones:**
-
 - **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two.
 - **[Item Chests](https://github.com/TraxData313/item-chests)** — named chests in your inventory: what's inside is never sold, eaten or equipped, but still weighs what it holds.
 - **[Keep Out of Battle](https://github.com/TraxData313/keep-out-of-battle)** — keep your surgeon, steward wife or any non-fighter out of land and naval battles.
