@@ -34,21 +34,12 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3811452468">
-        <img src="https://raw.githubusercontent.com/TraxData313/better-skirmisher-separation/main/docs/thumbnail_v3.jpg" width="240" alt="Better Skirmisher Separation">
-      </a><br>
-      <b><a href="https://github.com/TraxData313/better-skirmisher-separation">Better Skirmisher Separation</a></b><br>
-      <sub>Tick Throwing Weapons and get real javelin skirmishers — not Legionaries with a pilum or two.</sub><br>
-    </td>
-    <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817259431">
         <img src="https://raw.githubusercontent.com/TraxData313/trax_combat_enhancements/main/tools/preview_thumbnail.jpg" width="240" alt="Trax Combat Enhancements">
       </a><br>
       <b><a href="https://github.com/TraxData313/trax_combat_enhancements">Trax Combat Enhancements</a></b><br>
       <sub>Slower, tactical battles where heroes matter: a stamina bar for every fighter, and your orders decide who fights and who saves his strength. Not an overhaul.</sub><br>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817263044">
         <img src="https://raw.githubusercontent.com/TraxData313/smart_steward/main/Screenshots/preview_thumbnail.jpg" width="240" alt="Smart Steward">
@@ -58,6 +49,12 @@
     </td>
   </tr>
 </table>
+
+**Smaller ones:**
+
+- **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two.
+- **[Item Chests](https://github.com/TraxData313/item-chests)** — named chests in your inventory: what's inside is never sold, eaten or equipped, but still weighs what it holds.
+- **[Keep Out of Battle](https://github.com/TraxData313/keep-out-of-battle)** — keep your surgeon, steward wife or any non-fighter out of land and naval battles.
 
 ## 🎙️ Abby — a voice for your AI, running at home
 
