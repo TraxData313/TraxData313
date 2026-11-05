@@ -13,6 +13,8 @@
 
 ## ⚔️ Bannerlord mods
 
+<sub>All of them in one place: <a href="https://www.nexusmods.com/profile/aggeorgiev233/mods?gameId=3174"><b>my mods on Nexus</b></a>.</sub>
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -21,7 +23,8 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/ImmersiveAI">ImmersiveAI</a></b><br>
       <sub>Every NPC in Calradia gets a mind: conversation, memory, moods, voices, letters — and they act on what is said.</sub><br>
-      <sub>2.4k+ subscribers on Steam</sub>
+      <sub>2.4k+ subscribers on Steam</sub><br>
+      <sub><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/12119">Nexus</a></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3770681619">
@@ -29,7 +32,8 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/TrainingBattlesMod">Training Battles</a></b><br>
       <sub>Split your army in two and drill — on land, at sea or at the walls. Scout the ground, pick the hour.</sub><br>
-      <sub>850+ subscribers on Steam</sub>
+      <sub>850+ subscribers on Steam</sub><br>
+      <sub><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/12277">Nexus</a></sub>
     </td>
   </tr>
   <tr>
@@ -39,6 +43,7 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/trax_combat_enhancements">Trax Combat Enhancements</a></b><br>
       <sub>Slower, tactical battles where heroes matter: a stamina bar for every fighter, and your orders decide who fights and who saves his strength. Not an overhaul.</sub><br>
+      <sub><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/14198">Nexus</a></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3817263044">
@@ -46,6 +51,7 @@
       </a><br>
       <b><a href="https://github.com/TraxData313/smart_steward">Smart Steward</a></b><br>
       <sub>Automates your party's logistics — food, horses, troops, prisoners, loot — in one click (or by itself).</sub><br>
+      <sub><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/14217">Nexus</a></sub>
     </td>
   </tr>
 </table>
@@ -53,9 +59,9 @@
 - **[Item Skill Requirement Expanded](https://github.com/TraxData313/item-skill-requirement-expanded)** — equip anything, earn its full power: every weapon, shield, armour piece, bow and horse asks a skill by its tier, and below it you fight with it worse. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14526))
 - **[My Troops' Gear](https://github.com/TraxData313/my-troops-gear)** — edit the gear of your own troops, slot by slot. Only your parties wear it; save-safe. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14474))
 - **[Calradia Troops](https://traxdata313.github.io/calradia-troops/)** — every troop tree and unit page of Bannerlord in the browser, fan-made.
-- **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two.
-- **[Item Chests](https://github.com/TraxData313/item-chests)** — named chests in your inventory: what's inside is never sold, eaten or equipped, but still weighs what it holds.
-- **[Keep Out of Battle](https://github.com/TraxData313/keep-out-of-battle)** — keep your surgeon, steward wife or any non-fighter out of land and naval battles.
+- **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14214))
+- **[Item Chests](https://github.com/TraxData313/item-chests)** — named chests in your inventory: what's inside is never sold, eaten or equipped, but still weighs what it holds. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14215))
+- **[Keep Out of Battle](https://github.com/TraxData313/keep-out-of-battle)** — keep your surgeon, steward wife or any non-fighter out of land and naval battles. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14216))
 
 ## 🎙️ Abby — a voice for your AI, running at home
 
