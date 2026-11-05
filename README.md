@@ -50,6 +50,9 @@
   </tr>
 </table>
 
+- **[Item Skill Requirement Expanded](https://github.com/TraxData313/item-skill-requirement-expanded)** — equip anything, earn its full power: every weapon, shield, armour piece, bow and horse asks a skill by its tier, and below it you fight with it worse. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14526))
+- **[My Troops' Gear](https://github.com/TraxData313/my-troops-gear)** — edit the gear of your own troops, slot by slot. Only your parties wear it; save-safe. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14474))
+- **[Calradia Troops](https://traxdata313.github.io/calradia-troops/)** — every troop tree and unit page of Bannerlord in the browser, fan-made.
 - **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two.
 - **[Item Chests](https://github.com/TraxData313/item-chests)** — named chests in your inventory: what's inside is never sold, eaten or equipped, but still weighs what it holds.
 - **[Keep Out of Battle](https://github.com/TraxData313/keep-out-of-battle)** — keep your surgeon, steward wife or any non-fighter out of land and naval battles.
