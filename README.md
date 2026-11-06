@@ -58,6 +58,7 @@
 
 - **[Item Skill Requirement Expanded](https://github.com/TraxData313/item-skill-requirement-expanded)** — equip anything, earn its full power: every weapon, shield, armour piece, bow and horse asks a skill by its tier, and below it you fight with it worse. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14526))
 - **[Troop Training Requirement](https://github.com/TraxData313/troop-training-requirement)** — troops rise only as high as their teachers: a troop can only be upgraded into a unit you or a companion can teach; clan tier unlocks the rest. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14536))
+- **[Mercenary Contract Board](https://github.com/TraxData313/mercenary-contract-board)** — every war is hiring: every town has a board with the mercenary contracts on offer, who would hire you, what they pay and who they fight, all by vanilla's own rules.
 - **[My Troops' Gear](https://github.com/TraxData313/my-troops-gear)** — edit the gear of your own troops, slot by slot. Only your parties wear it; save-safe. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14474))
 - **[Calradia Troops](https://traxdata313.github.io/calradia-troops/)** — every troop tree and unit page of Bannerlord in the browser, fan-made.
 - **[Better Skirmisher Separation](https://github.com/TraxData313/better-skirmisher-separation)** — tick Throwing Weapons and get real javelin skirmishers, not Legionaries with a pilum or two. ([Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/14214))
